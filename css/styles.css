@@ -1,167 +1,166 @@
 
-
 .home_page {
-    height: auto;
-    width: auto;
-    background-image: url("../assets/backgrounds/h_img.jpg");
-    background-attachment: fixed;
-  }
+  height: auto;
+  width: auto;
+  background-image: url("../images/backgrounds/h_img.jpg");
+  background-attachment: fixed;
+}
 
-  .home_page_text {
-    text-align: center;
-    color: white;
-    margin-top: 400px;
-    background-attachment: fixed;
-  }
+.home_page_text {
+  text-align: center;
+  color: white;
+  margin-top: 400px;
+  background-attachment: fixed;
+}
 
-  .home_mouse {
-    text-align: center;
-    padding: 100px;
-  }
+.home_mouse {
+  text-align: center;
+  padding: 100px;
+}
 
-  .about_us {
-    text-align: center;
-    padding: 40px;
-    line-height: 40px;
-  }
+.about_us {
+  text-align: center;
+  padding: 40px;
+  line-height: 40px;
+}
 
-  .services {
-    text-align: center;
-    background-image: url(../assets/backgrounds/s_image.jpg);
-    background-attachment: fixed;
-    padding: 70px;
-    color: white;
-    line-height: 40px;
-    height: auto;
-    width: auto;
+.services {
+  text-align: center;
+  background-image: url(../images/backgrounds/s_image.jpg);
+  background-attachment: fixed;
+  padding: 70px;
+  color: white;
+  line-height: 40px;
+  height: auto;
+  width: auto;
 
-  }
+}
 
-  .what_we_do {
-    text-align: center;
-    padding: 20px;
+.what_we_do {
+  text-align: center;
+  padding: 20px;
 
-  }
+}
 
-  .icons {
-    text-align: center;
-  }
+.icons {
+  text-align: center;
+}
 
-  .portfolio {
-    text-align: center;
-    margin: 30px;
-  }
+.portfolio {
+  text-align: center;
+  margin: 30px;
+}
 
-  .portfolio_image {
+.portfolio_image {
 
-    text-align: center;
-    padding: auto;
-    margin: 40px;
-  }
+  text-align: center;
+  padding: auto;
+  margin: 40px;
+}
 
-  .contact_us {
-    background-image: url(../assets/backgrounds/c_image.jpg);
-    text-align: center;
-    color: white;
-    background-attachment: fixed;
-    height: auto;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    padding: 20px;
+.contact_us {
+  background-image: url(../images/backgrounds/c_image.jpg);
+  text-align: center;
+  color: white;
+  background-attachment: fixed;
+  height: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 20px;
 
-  }
+}
 
-  .contact_form {
-    text-align: center;
-    background-attachment: fixed;
-
-
-
-  }
-
-  .contact-form {
-    text-align: center;
-    margin: 10px;
-
-  }
-
-  #message,
-  #email,
-  #name {
-    background-color: transparent;
-    color: white;
-    border: 2px solid whitesmoke;
-    padding: 2px;
-  }
-
-  ::placeholder {
-    color: white;
-
-  }
+.contact_form {
+  text-align: center;
+  background-attachment: fixed;
 
 
-  #name {
-    width: 400px;
+
+}
+
+.contact-form {
+  text-align: center;
+  margin: 10px;
+
+}
+
+#message,
+#email,
+#name {
+  background-color: transparent;
+  color: white;
+  border: 2px solid whitesmoke;
+  padding: 2px;
+}
+
+::placeholder {
+  color: white;
+
+}
 
 
-  }
-
-  #email {
-    width: 400px;
-
-  }
-
-  .footer {
-    text-align: center;
-    margin: auto;
-    line-height: 10px;
-  }
-
-  .overlay {
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    height: 100%;
-    width: 100%;
-    opacity: 0;
-    transition: .1s ease;
-    background-color: #008CBA;
-
-  }
-
-  .myform {
-    text-align: center;
-    margin-left: 24%;
-    margin-right: 24%;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    resize: vertical;
-    ;
-
-  }
-
-  .text_input {
-    text-align: center;
-    width: auto;
-    float: center;
-    resize: vertical;
-  }
-
-  .whatwedo1 {
-    display: none;
-  }
-
-  .whatwedo2 {
-    display: none;
-  }
-
-  .whatwedo3 {
-    display: none;
-  }
+#name {
+  width: 400px;
 
 
-  .porttext{
-    display: none;
-  }
+}
+
+#email {
+  width: 400px;
+
+}
+
+.footer {
+  text-align: center;
+  margin: auto;
+  line-height: 10px;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .1s ease;
+  background-color: #008CBA;
+
+}
+
+.myform {
+  text-align: center;
+  margin-left: 24%;
+  margin-right: 24%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  resize: vertical;
+  ;
+
+}
+
+.text_input {
+  text-align: center;
+  width: auto;
+  float: center;
+  resize: vertical;
+}
+
+.whatwedo1 {
+  display: none;
+}
+
+.whatwedo2 {
+  display: none;
+}
+
+.whatwedo3 {
+  display: none;
+}
+
+
+.porttext{
+  display: none;
+}
