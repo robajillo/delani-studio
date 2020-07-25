@@ -20,3 +20,6 @@ https://robajillo.github.io/delani-studio/
 *Bootstrap
 *javascript (JQuery)
 *Markdown
+
+#### Contact Information
+If you have any question or contributions, please email me at [rjillo@yahoo.com]
