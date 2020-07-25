@@ -23,3 +23,7 @@ https://robajillo.github.io/delani-studio/
 
 #### Contact Information
 If you have any question or contributions, please email me at [rjillo@yahoo.com]
+
+#### License
+* *MIT License:*
+* Copyright (c) 2020 **Roba Jillo**
