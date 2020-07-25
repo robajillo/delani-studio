@@ -164,3 +164,22 @@
 .porttext{
   display: none;
 }
+.row social_icons{
+  icons-align: center;
+}
+}
+@media only screen and (max-width: 755px)
+.col-md-1{ text-align: center;
+  }
+}
+@media only screen and (max-width: 425px){
+
+  }
+}
+@media only screen and (min-width: 825px){
+
+  }
+}
+@media only screen and (min-width: 625px){
+
+  }
