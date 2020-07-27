@@ -3,14 +3,14 @@
   height: auto;
   width: auto;
   background-image: url("../images/backgrounds/h_img.jpg");
-  background-attachment: fixed;
+
 }
 
 .home_page_text {
   text-align: center;
   color: white;
   margin-top: 400px;
-  background-attachment: fixed;
+
 }
 
 .home_mouse {
@@ -57,7 +57,7 @@
 .services {
   text-align: center;
   background-image: url(../images/backgrounds/s_image.jpg);
-  background-attachment: fixed;
+
   padding: 70px;
   color: white;
   line-height: 40px;
@@ -92,7 +92,7 @@
   background-image: url(../images/backgrounds/c_image.jpg);
   text-align: center;
   color: white;
-  background-attachment: fixed;
+
   height: auto;
   margin-top: 20px;
   margin-bottom: 20px;
@@ -102,7 +102,7 @@
 
 .contact_form {
   text-align: center;
-  background-attachment: fixed;
+
 
 
 
@@ -210,4 +210,3 @@
 
 
 @media only screen and (min-width: 1200px) {...}
-© 2020 GitHub, Inc.
