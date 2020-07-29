@@ -88,6 +88,14 @@
   margin: 40px;
 }
 
+
+
+ ::hover {
+  opacity: 1;
+}
+
+
+
 .contact_us {
   background-image: url(../images/backgrounds/c_image.jpg);
   text-align: center;
